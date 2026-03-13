@@ -694,8 +694,7 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "sha": "623eb4ed4364d8111f9a9132a791d7497d814b6a"
+        "url": "https://github.com/qodo-ai/qodo-skills.git"
       },
       "homepage": "https://github.com/qodo-ai/qodo-skills.git"
     },
@@ -716,8 +715,7 @@
       "category": "monitoring",
       "source": {
         "source": "url",
-        "url": "https://github.com/PagerDuty/claude-code-plugins.git",
-        "sha": "b16c23e0d790deceaa7a6182616d0e36673f2eae"
+        "url": "https://github.com/PagerDuty/claude-code-plugins.git"
       },
       "homepage": "https://github.com/PagerDuty/claude-code-plugins"
     },
@@ -727,8 +725,7 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/Postman-Devrel/postman-claude-code-plugin.git",
-        "sha": "0714280351c1a137e79aad465a66730511ffbd57"
+        "url": "https://github.com/Postman-Devrel/postman-claude-code-plugin.git"
       },
       "homepage": "https://learning.postman.com/docs/developer/postman-mcp-server/"
     }
